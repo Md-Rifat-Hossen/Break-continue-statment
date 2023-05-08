@@ -18,6 +18,7 @@ Output
 1
 
 break statement with decision making statement
+
 #include <stdio.h>
 
 int main() {
@@ -38,6 +39,7 @@ Output
 1
 2
 break with while loop
+
 #include <stdio.h>
 
 int main() {
@@ -65,6 +67,7 @@ Enter a number: 9
 Enter a number: -4
 
 continue Statement
+
 #include <stdio.h>
 
 int main() {
@@ -88,6 +91,8 @@ Output
 5
 
 Example: break and continue
+
+
 #include <stdio.h>
 
 int main() { 
@@ -120,6 +125,7 @@ Enter a number: 32
 Enter a number: -3
 
 Programming Task
+
 Q. Can you write a program that takes an input from the user and prints it if the value is a negative odd number?
 
 if the input value is positive, end the loop with message, Positive Value.
@@ -131,6 +137,8 @@ Enter a number: -23
 Enter a number: -22
 Negative Even
 Enter a number: 23
+
+
 
 Solution :
     #include <stdio.h>
